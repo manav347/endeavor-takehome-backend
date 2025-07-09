@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/app/__init__.py
+src/app/client.py
+src/app/config.py
+src/app/main.py
+src/app/models.py
+src/app/responder.py
+src/app/scheduler.py
+src/app/sink.py
+src/email_response_system.egg-info/PKG-INFO
+src/email_response_system.egg-info/SOURCES.txt
+src/email_response_system.egg-info/dependency_links.txt
+src/email_response_system.egg-info/requires.txt
+src/email_response_system.egg-info/top_level.txt
